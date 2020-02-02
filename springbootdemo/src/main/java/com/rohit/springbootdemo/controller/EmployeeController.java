@@ -28,6 +28,7 @@ public class EmployeeController {
 		employeeList.add(new Employee(2, "Mesut", "Ozil", "ozil10@gmail.com"));
 		employeeList.add(new Employee(3, "lionel", "Messi", "messi10@gmail.com"));
 		employeeList.add(new Employee(4, "lionel", "Messi", "messi10@gmail.com"));
+		employeeList.add(new Employee(5, "Neymar", "Jr.", "jr10@gmail.com"));
 		
 		return employeeList;
 	}
