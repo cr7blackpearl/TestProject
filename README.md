@@ -1,2 +1,2 @@
-# TestProject
-This spring boot project is used for demo purpose.
+# Updated TestProject
+Updated Spring boot project README file.
